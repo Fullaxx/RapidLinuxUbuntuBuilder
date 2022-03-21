@@ -21,6 +21,7 @@ RUN apt-get update && \
       less \
       lsof \
       nano \
+      patch \
       software-properties-common \
       squashfs-tools \
       tree \
